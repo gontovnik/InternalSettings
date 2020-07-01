@@ -1,0 +1,6 @@
+framework module InternalSettings {
+  umbrella header "InternalSettings-umbrella.h"
+
+  export *
+  module * { export * }
+}

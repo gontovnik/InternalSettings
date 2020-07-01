@@ -1,0 +1,6 @@
+use_frameworks!
+
+target 'InternalSettings_Example' do
+  pod 'InternalSettings', :path => '../'
+  pod 'Experiments', :git => 'https://github.com/gontovnik/Experiments.git'
+end

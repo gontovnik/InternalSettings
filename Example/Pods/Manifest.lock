@@ -1,0 +1,26 @@
+PODS:
+  - Experiments (0.1.0)
+  - InternalSettings (0.1.0)
+
+DEPENDENCIES:
+  - Experiments (from `https://github.com/gontovnik/Experiments.git`)
+  - InternalSettings (from `../`)
+
+EXTERNAL SOURCES:
+  Experiments:
+    :git: https://github.com/gontovnik/Experiments.git
+  InternalSettings:
+    :path: "../"
+
+CHECKOUT OPTIONS:
+  Experiments:
+    :commit: f8064d0b74be42b76b74b33d2063d3601c7f267e
+    :git: https://github.com/gontovnik/Experiments.git
+
+SPEC CHECKSUMS:
+  Experiments: 18c080824a46c5fb2178afc92f6440271ae471e0
+  InternalSettings: 19654a172cd778f5a9249f0e872ff04fe57c3b8b
+
+PODFILE CHECKSUM: a765a31634d05d952f1386bacd190356d77081b8
+
+COCOAPODS: 1.9.3
